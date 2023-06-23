@@ -2,4 +2,6 @@ informatika class hmpi
 -desain
 * FIGMA
 -php
+* coba 1
 -python
+
